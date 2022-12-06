@@ -1,3 +1,2 @@
 #!/bin/bash
-exho $(( BREATH**LOVE ))
-
+echo $(( BREATH**LOVE ))
